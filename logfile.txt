@@ -1,0 +1,45 @@
+2024-02-14 19:00:04.557777 Sent Email to stephen.a.grech@airmalta.com 
+2024-02-14 19:00:04.576222 Failed to delete E:/Scripts/EFF Files\9HNEC_AMC0478_240213_LMML_LFPG_U240213082728.eff. Reason: [WinError 32] The process cannot access the file because it is being used by another process: 'E:/Scripts/EFF Files\\9HNEC_AMC0478_240213_LMML_LFPG_U240213082728.eff' 
+2024-02-14 20:49:26.253516 Sent Email to mark.micallef@kmmaltairlines.com 
+2024-02-14 20:50:14.715352 Sent Email to mark.micallef@kmmaltairlines.com 
+2024-02-14 20:50:35.156794 Sent Email to mark.micallef@kmmaltairlines.com 
+2024-02-14 20:51:40.887972 Sent Email to mark.micallef@kmmaltairlines.com 
+2024-02-14 20:52:35.941058 Sent Email to mark.micallef@kmmaltairlines.com 
+2024-02-14 20:53:58.119842 Sent Email to mark.micallef@kmmaltairlines.com 
+2024-02-14 20:53:58.148851 Dep Delay Error! local variable 'arrdelaycomp' referenced before assignment 
+2024-02-14 20:55:42.870617 Sent Email to mark.micallef@kmmaltairlines.com 
+2024-02-14 20:55:43.166170 Dep Delay Error! local variable 'arrdelaycomp' referenced before assignment 
+2024-02-14 20:55:43.190163 Remark Error! can only concatenate str (not "NoneType") to str 
+2024-02-14 20:55:43.684113 Sent Email to stephen.a.grech@airmalta.com 
+2024-02-14 20:57:58.525288 [INFO] Sent Email to mark.micallef@kmmaltairlines.com 
+2024-02-14 20:57:58.807552 [ERROR] Dep Delay Error! local variable 'arrdelaycomp' referenced before assignment 
+2024-02-14 20:57:58.831885 [ERROR] Remark Error! can only concatenate str (not "NoneType") to str 
+2024-02-14 20:58:00.052371 [INFO] Sent Email to stephen.a.grech@airmalta.com 
+2024-02-14 21:00:09.098621 [INFO] Sent Email to mark.micallef@kmmaltairlines.com 
+2024-02-14 21:00:09.407754 [ERROR] Remark Error! can only concatenate str (not "NoneType") to str 
+2024-02-14 21:00:10.232820 [INFO] Sent Email to stephen.a.grech@airmalta.com 
+2024-02-14 21:00:37.871159 [INFO] Sent Email to mark.micallef@kmmaltairlines.com 
+2024-02-14 21:01:01.916910 [INFO] Sent Email to mark.micallef@kmmaltairlines.com 
+2024-02-14 21:06:29.036439 [INFO] Sent Email to mark.micallef@kmmaltairlines.com 
+2024-02-14 21:06:29.438288 [ERROR] Remark Error! object of type 'NoneType' has no len() 
+2024-02-14 21:06:29.943346 [INFO] Sent Email to stephen.a.grech@airmalta.com 
+2024-02-14 21:06:52.956064 [INFO] Sent Email to mark.micallef@kmmaltairlines.com 
+2024-02-14 21:06:53.046066 [ERROR] Remark Error! '>' not supported between instances of 'NoneType' and 'int' 
+2024-02-14 21:06:53.917533 [INFO] Sent Email to stephen.a.grech@airmalta.com 
+2024-02-14 21:07:17.025866 [INFO] Sent Email to mark.micallef@kmmaltairlines.com 
+2024-02-14 21:07:17.545850 [INFO] Sent Email to stephen.a.grech@airmalta.com 
+2024-02-14 21:08:55.132812 [INFO] Sent Email to mark.micallef@kmmaltairlines.com 
+2024-02-14 21:08:56.053125 [INFO] Sent Email to stephen.a.grech@airmalta.com 
+2024-02-14 21:15:31.855477 [ERROR] Error parsing file 9HNEC_AMC0479_240213_LFPG_LMML_U240213120357.eff - 'NoneType' object has no attribute 'find' 
+2024-02-14 21:15:32.745981 [INFO] Sent Email to mark.micallef@kmmaltairlines.com 
+2024-02-14 21:15:33.491469 [INFO] Sent Email to stephen.a.grech@airmalta.com 
+2024-02-16 17:26:12.911667 [INFO] Sent9HNEE_AMC0514_240215_LMML_LOWWEmail to stephen.a.grech@airmalta.com 
+2024-02-16 17:26:13.631581 [INFO] Sent9HNEE_AMC0515_240215_LOWW_LMMLEmail to stephen.a.grech@airmalta.com 
+2024-02-16 17:26:14.942950 [INFO] Sent9HNEC_AMC0478_240215_LMML_LFPGEmail to stephen.a.grech@airmalta.com 
+2024-02-16 17:26:16.117780 [INFO] Sent9HNEC_AMC0479_240215_LFPG_LMMLEmail to stephen.a.grech@airmalta.com 
+2024-02-20 06:04:18.517137 [INFO] Sent 9HAEP_AMC0612_240219_LMML_LIRF Email to stephen.a.grech@airmalta.com 
+2024-02-20 06:04:19.566269 [INFO] Sent 9HNEF_AMC0587_240219_LEMD_LMML Email to stephen.a.grech@airmalta.com 
+2024-02-20 06:04:20.576759 [INFO] Sent 9HNEF_AMC0586_240219_LMML_LEMD Email to stephen.a.grech@airmalta.com 
+2024-02-20 06:04:21.804335 [INFO] Sent 9HNEB_AMC0454_240219_LMML_LFLL Email to stephen.a.grech@airmalta.com 
+2024-02-20 06:04:22.888362 [ERROR] Dep Delay Error! E:/Scripts/EFF Files\9HAEP_AMC0613_240219_LIRF_LMML_U240219110304.eff_extracted\9HAEP_AMC0613_240219_LIRF_LMML_U240219110304.dat_extracted\9HAEP_AMC613_240219_LIRF_LMML_U240219110304_VoyageReport.xml 'NoneType' object has no attribute 'text' 
+2024-02-20 06:04:23.432383 [INFO] Sent 9HAEP_AMC0613_240219_LIRF_LMML Email to stephen.a.grech@airmalta.com 
